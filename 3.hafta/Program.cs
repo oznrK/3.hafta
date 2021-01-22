@@ -47,7 +47,8 @@ namespace _3.hafta
         }
         static int Add4(params int[] numbers)
         {
-            return numbers.Sum();
+            //return numbers.Sum();
+            return 1;
         }
     }
 }

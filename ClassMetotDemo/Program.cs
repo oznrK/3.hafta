@@ -11,6 +11,7 @@ namespace ClassMetotDemo
             musteri1.Soyad = "soyad1";
             musteri1.Id = 100000;
             musteri1.Yas = 22;
+            //deneme
 
             Musteri musteri2 = new Musteri();
             musteri2.Ad = "gizem";
